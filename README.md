@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playerfront&label=Profile%20views&color=0e75b6&style=flat" alt="playerfront" /> </p>
 
- 🔭 I’m currently working on [coffee-owl shop](https://github.com/PlayerFront/coffee-owl)
+ 🔭 I’m currently working on [to-do list](https://github.com/PlayerFront/todo-ts)
 
 🌱 I’m currently learning **React,** **TypeScript**
 
